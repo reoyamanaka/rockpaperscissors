@@ -20,7 +20,7 @@
     <a href="https://github.com/reoyamanaka/rockpaperscissors.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://youtu.be/4XOOX6J57f0">View Demo</a>
     .
     <a href="https://github.com/reoyamanaka/rockpaperscissors/issues">Report Bug</a>
   </p>
