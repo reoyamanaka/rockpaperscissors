@@ -22,7 +22,7 @@
     <br />
     <a href="">View Demo</a>
     .
-    <a href="https://github.com/reoyamanaka/rockpaperscissors.git">Report Bug</a>
+    <a href="https://github.com/reoyamanaka/rockpaperscissors/issues">Report Bug</a>
   </p>
 </p>
 
