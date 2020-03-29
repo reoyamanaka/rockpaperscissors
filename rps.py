@@ -84,6 +84,7 @@ def reset_game(event):
     player_input.Clear()
     player_input.Show()
     player_command.SetLabel("Player 1: Type in your letter. Note: HIDE YOUR FINGERS! \nInput is in white text (invisible).")
+    submit_button2.Hide()
     
 reset_button = wx.Button(panel, label = "Reset", pos = (60, 210))
 reset_button.Bind(wx.EVT_BUTTON, reset_game)
