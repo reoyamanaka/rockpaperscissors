@@ -40,8 +40,8 @@
 
 ## About The Project
 <p align="center">
-  <img src="images/demo_screenshot0.png" width="400" height="211">   <img src="images/demo_screenshot1.png" width="400" height="211">
-  <img src="images/demo_screenshot2.png" width="400" height="211">
+  <img src="images/demo_screenshot0.png" width="400" height="245">   <img src="images/demo_screenshot1.png" width="400" height="245">
+  <img src="images/demo_screenshot2.png" width="400" height="245">
 </p>
 
 
