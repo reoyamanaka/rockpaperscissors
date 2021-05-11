@@ -68,14 +68,14 @@ pip install wxpython
 ```sh
 git clone https://github.com/reoyamanaka/rockpaperscissors.git
 ```
-2. Install wxPython module
+2. Install requirements
 ```sh
-pip install wxpython
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-**The input letter is in white (invisible) to prevent Player 2 from cheating.**
+**The input letter is in white color (invisible) to prevent Player 2 from cheating.**
 
 ![](images/rpsdemo.gif)
 
