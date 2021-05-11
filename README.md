@@ -44,7 +44,6 @@
   <img src="images/demo_screenshot2.png" width="450" height="276">
 </p>
 
-
 ### Built With
 
 * Python 3.8.1
